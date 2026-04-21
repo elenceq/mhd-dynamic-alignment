@@ -1,0 +1,16 @@
+cube_id,t,velocity_ok,magnetic_ok,velocity_file,magnetic_file
+C01,218,True,True,mhd1024_velocity_t0218_x641-960_y641-960_z641-960.npy,mhd1024_magneticfield_t0218_x641-960_y641-960_z641-960.npy
+C02,553,True,True,mhd1024_velocity_t0553_x321-640_y641-960_z321-640.npy,mhd1024_magneticfield_t0553_x321-640_y641-960_z321-640.npy
+C03,825,True,True,mhd1024_velocity_t0825_x641-960_y641-960_z1-320.npy,mhd1024_magneticfield_t0825_x641-960_y641-960_z1-320.npy
+C04,217,True,True,mhd1024_velocity_t0217_x321-640_y1-320_z641-960.npy,mhd1024_magneticfield_t0217_x321-640_y1-320_z641-960.npy
+C05,493,True,True,mhd1024_velocity_t0493_x1-320_y641-960_z641-960.npy,mhd1024_magneticfield_t0493_x1-320_y641-960_z641-960.npy
+C06,22,True,True,mhd1024_velocity_t0022_x321-640_y641-960_z641-960.npy,mhd1024_magneticfield_t0022_x321-640_y641-960_z641-960.npy
+C07,292,True,True,mhd1024_velocity_t0292_x641-960_y321-640_z641-960.npy,mhd1024_magneticfield_t0292_x641-960_y321-640_z641-960.npy
+C08,976,True,True,mhd1024_velocity_t0976_x1-320_y1-320_z321-640.npy,mhd1024_magneticfield_t0976_x1-320_y1-320_z321-640.npy
+C09,699,True,True,mhd1024_velocity_t0699_x1-320_y321-640_z1-320.npy,mhd1024_magneticfield_t0699_x1-320_y321-640_z1-320.npy
+C10,778,True,True,mhd1024_velocity_t0778_x321-640_y321-640_z1-320.npy,mhd1024_magneticfield_t0778_x321-640_y321-640_z1-320.npy
+C11,843,True,True,mhd1024_velocity_t0843_x641-960_y1-320_z321-640.npy,mhd1024_magneticfield_t0843_x641-960_y1-320_z321-640.npy
+C12,273,True,True,mhd1024_velocity_t0273_x641-960_y321-640_z321-640.npy,mhd1024_magneticfield_t0273_x641-960_y321-640_z321-640.npy
+C13,539,True,True,mhd1024_velocity_t0539_x1-320_y641-960_z1-320.npy,mhd1024_magneticfield_t0539_x1-320_y641-960_z1-320.npy
+C14,302,True,True,mhd1024_velocity_t0302_x321-640_y321-640_z321-640.npy,mhd1024_magneticfield_t0302_x321-640_y321-640_z321-640.npy
+C15,118,True,True,mhd1024_velocity_t0118_x1-320_y321-640_z641-960.npy,mhd1024_magneticfield_t0118_x1-320_y321-640_z641-960.npy
